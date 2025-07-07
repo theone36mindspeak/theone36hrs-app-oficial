@@ -1,12 +1,12 @@
-body {
+body { 
   margin: 0;
   padding: 0;
-  background-image: url("/images/backgrounds/stone-bg.JPG");
+  background-image: url("/images/backgrounds/stone-bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: black;
+  color: white;
   font-family: 'Segoe UI', sans-serif;
 }
 
